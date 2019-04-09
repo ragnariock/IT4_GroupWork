@@ -1,2 +1,2 @@
-На лабораторній роботі №4, я навчився створювати проекти, створювати теми для обговорення та створювати сторінку автора.
+На лабораторній роботі №4, я, Сало Віталій, навчився створювати проекти, створювати теми для обговорення та створювати сторінку автора.
 1. I am Ostap Salo, I first time use command work in guthub, We used colum(Issues, where written our problems/task), used colum(project, where FIRST time create project,'Подорожі', where resolved issues with traveliing.....) 
